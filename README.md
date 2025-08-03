@@ -1,6 +1,6 @@
 # Super Mario: The Immortal
 
-Play the Game: [Super Mario: The Immortal on Vercel](https://result-7souvf1jk-ankitbhagat2062s-projects.vercel.app)
+Play the Game: [Super Mario: The Immortal on Vercel](https://super-mario-5m10499kq-ankitbhagat2062s-projects.vercel.app)
 
 ## About
 
@@ -16,11 +16,12 @@ This project is a clone of the classic Super Mario game created as part of the C
 
 ## Technologies Used
 
-- Scratch (for original game development)
-- Htmlifier (to convert Scratch project to HTML)
+- [Scratch](https://scratch.mit.edu/projects/1203480771) (for original game development)
+- [Htmlifier](https://sheeptester.github.io/htmlifier/) (to convert Scratch project to HTML)
 - HTML, CSS, JavaScript
-- GitHub (for version control)
-- Vercel (for hosting)
+- [GitHub](https://github.com/Ankitbhagat2062/Super-Mario-The-Immortal) (for version control)
+- [Vercel](https://super-mario-5m10499kq-ankitbhagat2062s-projects.vercel.app) (for hosting)
+- [CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) (Harvard CS50 Introduction to Computer Science)
 
 ## How to Play
 
@@ -60,13 +61,10 @@ This project was created as part of the Harvard CS50 course. All game assets are
 ## Getting Started
 
 To run this game locally:
-
-1. Clone this repository
-
  ```
  git clone https://github.com/Ankitbhagat2062/Super-Mario.git
-
  ```
+1. Clone this repository
 2. Open `index.html` in your web browser
 3. Start playing!
 
