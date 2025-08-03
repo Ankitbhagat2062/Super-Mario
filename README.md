@@ -62,6 +62,11 @@ This project was created as part of the Harvard CS50 course. All game assets are
 To run this game locally:
 
 1. Clone this repository
+
+ ```
+ git clone https://github.com/Ankitbhagat2062/Super-Mario.git
+
+ ```
 2. Open `index.html` in your web browser
 3. Start playing!
 
